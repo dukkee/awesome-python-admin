@@ -1,0 +1,40 @@
+repositories:
+  - name: Django
+    repo: https://github.com/django/django
+    description: The Web framework for perfectionists with deadlines.
+    category: Web
+
+  - name: Flask-Admin
+    repo: https://github.com/flask-admin/flask-admin
+    description: Simple and extensible administrative interface framework for Flask.
+    category: Web
+
+  - name: Piccolo Admin
+    repo: https://github.com/piccolo-orm/piccolo_admin
+    description: A powerful web admin for your database.
+    category: Web
+
+  - name: SQLAdmin
+    repo: https://github.com/aminalaee/sqladmin
+    description: SQLAlchemy Admin for FastAPI and Starlette.
+    category: Web
+
+  - name: FastAPI Admin
+    repo: https://github.com/fastapi-admin/fastapi-admin
+    description: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin.
+    category: Web
+
+  - name: Starlette-Admin
+    repo: https://github.com/jowilf/starlette-admin
+    description: Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+    category: Web
+
+  - name: FastAPI-Amis-Admin
+    repo: https://github.com/amisadmin/fastapi-amis-admin
+    description: FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
+    category: Web
+
+  - name: Flask-SuperAdmin
+    repo: https://github.com/syrusakbary/Flask-SuperAdmin
+    description: The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
+    category: Web
