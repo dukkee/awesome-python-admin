@@ -6,21 +6,21 @@ These packages have not been vetted or approved by the pydantic team.
 
 
 
-- [Django](https://github.com/django/django) 🌟(77540) - The Web framework for perfectionists with deadlines.
+- [Django](https://github.com/django/django) 🌟(77637) - The Web framework for perfectionists with deadlines.
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) 🌟(5673) - Simple and extensible administrative interface framework for Flask.
+- [Flask-Admin](https://github.com/flask-admin/flask-admin) 🌟(5678) - Simple and extensible administrative interface framework for Flask.
 
-- [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) 🌟(2642) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin.
+- [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) 🌟(2654) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin.
 
-- [SQLAdmin](https://github.com/aminalaee/sqladmin) 🌟(1651) - SQLAlchemy Admin for FastAPI and Starlette.
+- [SQLAdmin](https://github.com/aminalaee/sqladmin) 🌟(1664) - SQLAlchemy Admin for FastAPI and Starlette.
 
-- [FastAPI-Amis-Admin](https://github.com/amisadmin/fastapi-amis-admin) 🌟(943) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
+- [FastAPI-Amis-Admin](https://github.com/amisadmin/fastapi-amis-admin) 🌟(954) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
 
-- [Flask-SuperAdmin](https://github.com/syrusakbary/Flask-SuperAdmin) 🌟(640) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
+- [Flask-SuperAdmin](https://github.com/syrusakbary/Flask-SuperAdmin) 🌟(641) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
 
-- [Starlette-Admin](https://github.com/jowilf/starlette-admin) 🌟(505) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [Starlette-Admin](https://github.com/jowilf/starlette-admin) 🌟(511) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 
-- [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) 🌟(292) - A powerful web admin for your database.
+- [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) 🌟(295) - A powerful web admin for your database.
 
 
 
