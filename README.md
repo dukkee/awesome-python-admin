@@ -6,17 +6,17 @@ These packages have not been vetted or approved by the pydantic team.
 
 
 
-- [Django](https://github.com/django/django) 🌟(83389) - The Web framework for perfectionists with deadlines.
+- [Django](https://github.com/django/django) 🌟(83478) - The Web framework for perfectionists with deadlines.
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) 🌟(5917) - Simple and extensible administrative interface framework for Flask.
+- [Flask-Admin](https://github.com/flask-admin/flask-admin) 🌟(5920) - Simple and extensible administrative interface framework for Flask.
 
-- [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) 🌟(3194) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin.
+- [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) 🌟(3216) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin.
 
-- [SQLAdmin](https://github.com/aminalaee/sqladmin) 🌟(2143) - SQLAlchemy Admin for FastAPI and Starlette.
+- [SQLAdmin](https://github.com/aminalaee/sqladmin) 🌟(2159) - SQLAlchemy Admin for FastAPI and Starlette.
 
-- [FastAPI-Amis-Admin](https://github.com/amisadmin/fastapi-amis-admin) 🌟(1235) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
+- [FastAPI-Amis-Admin](https://github.com/amisadmin/fastapi-amis-admin) 🌟(1241) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
 
-- [Starlette-Admin](https://github.com/jowilf/starlette-admin) 🌟(765) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
+- [Starlette-Admin](https://github.com/jowilf/starlette-admin) 🌟(769) - Fast, beautiful and extensible administrative interface framework for Starlette & FastApi applications
 
 - [Flask-SuperAdmin](https://github.com/syrusakbary/Flask-SuperAdmin) 🌟(642) - The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.
 
